@@ -1,0 +1,2 @@
+# NewBot
+Meh new Pokecord :)
